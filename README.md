@@ -1,1 +1,1 @@
-# trial_product_recommendation
+# product_recommendation
